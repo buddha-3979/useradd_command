@@ -1,3 +1,3 @@
-baocao
+“useradd” Command in Linux
 ======
-//sadfs
+heloo xin chào các bạn
